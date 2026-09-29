@@ -4,8 +4,8 @@ Sprint 1 · **Del dato horario al indicador diario**
 Materia: Análisis y visualización de la información 2026B · Universidad de Guadalajara, CUCEI
 Profesora: MC. Nayeli Areli Pérez Padilla
 
-🔗 **Sitio publicado:** https://TU-PROYECTO.vercel.app
-📦 **Repositorio:** https://github.com/TU-USUARIO/TU-REPO
+🔗 **Sitio publicado:** proximamente en vercel
+📦 **Repositorio:** https://github.com/Ian-MichaelOFF/Analisis_Calidad_del_aire_estacion_CEN_marzo_2024
 
 ## ¿De qué trata?
 
